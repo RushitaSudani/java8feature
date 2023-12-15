@@ -1,0 +1,215 @@
+[
+  {
+    "name": "tisha",
+    "age": 2,
+    "position": [
+      "CEO",
+      "founder"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "salary": {
+      "1": 120000,
+      "2": 4567,
+      "3": 34567865.345
+    }
+  },
+  {
+    "name": "tina",
+    "age": 2,
+    "position": [
+      "CEO",
+      "director"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "salary": {
+      "1": 120000,
+      "2": 4567,
+      "3": 34567865.345
+    }
+  },
+  {
+    "name": "hry",
+    "age": 222,
+    "position": [
+      "founder"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "salary": {
+      "1": 120000,
+      "2": 4567,
+      "3": 34567865.345
+    }
+  },
+  {
+    "name": "jnc",
+    "age": 212,
+    "position": [
+      "CEO",
+      "director"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "salary": {
+      "1": 120000,
+      "2": 4567,
+      "3": 34567865.345
+    }
+  },
+  {
+    "name": "kevel",
+    "age": 232,
+    "position": [
+      "CEO",
+      "founder"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "salary": {
+      "1": 120000,
+      "2": 4567,
+      "3": 34567865.345
+    }
+  },
+  {
+    "name": "jkabvi",
+    "age": 212,
+    "position": [
+      "CEO",
+      "director"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "salary": {
+      "1": 120000,
+      "2": 4567,
+      "3": 34567865.345
+    }
+  },
+  {
+    "name": "radha",
+    "age": 212,
+    "position": [
+      "CEO",
+      "founder",
+      "director"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "salary": {
+      "1": 120000,
+      "2": 4567,
+      "3": 34567865.345
+    }
+  },
+  {
+    "name": "mira",
+    "age": 232,
+    "position": [
+      "director"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "salary": {
+      "1": 120000,
+      "2": 4567,
+      "3": 34567865.345
+    }
+  },
+  {
+    "name": "mono",
+    "age": 212,
+    "position": [
+      "CEO"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "salary": {
+      "1": 120000,
+      "2": 4567,
+      "3": 34567865.345
+    }
+  },
+  {
+    "name": "tiyaa",
+    "age": 212,
+    "position": [
+      "founder",
+      "director"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "salary": {
+      "1": 120000,
+      "2": 4567,
+      "3": 34567865.345
+    }
+  },
+  {
+    "name": "niyaa",
+    "age": 242,
+    "position": [
+      "CEO",
+      "founder"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "salary": {
+      "1": 120000,
+      "2": 4567,
+      "3": 34567865.345
+    }
+  },
+  {
+    "name": "kriya",
+    "age": 252,
+    "position": [
+      "CEOA"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "c++"
+    ],
+    "salary": {
+      "1": 120000,
+      "2": 4567,
+      "3": 34567865.345
+    }
+  }
+]
